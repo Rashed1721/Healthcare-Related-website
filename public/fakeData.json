@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anisul Islam",
+    "serviceName": "Heart Disease",
+    "age": 29,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 3126,
+
+    "picture": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+    "email": "anisulislam@gmail.com",
+    "description": "Chest pain, chest tightness, chest pressure and chest discomfort (angina) Shortness of breath. Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed. Pain in the neck, jaw, throat, upper abdomen or back."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jihad Hossain",
+    "serviceName": "Cancer Disease",
+    "age": 25,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 5426,
+    "picture": "https://image.freepik.com/free-photo/doctor-with-co-workers-analyzing-x-ray_1098-581.jpg",
+
+    "email": "drjihad@gmail.com",
+    "description": "Cancer is a disease caused when cells divide uncontrollably and spread into surrounding tissues. Cancer is caused by changes to DNA. Most cancer-causing DNA changes occur in sections of DNA called genes. These changes are also called genetic changes"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Harry",
+    "serviceName": "Tumor Disease",
+    "age": 31,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 5764,
+    "picture": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg",
+    "email": "codewithharry@gmail.com",
+    "description": "An abnormal mass of tissue that forms when cells grow and divide more than they should or do not die when they should. Tumors may be benign (not cancer) or malignant (cancer). Benign tumors may grow large but do not spread into, or invade, nearby tissues or other parts of the body."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Kulsum",
+    "serviceName": "Lung Disease",
+    "age": 22,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 9082,
+    "picture": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "email": "elonmask@tesla.com",
+    "description": "Lung disease refers to disorders that affect the lungs, the organs that allow us to breathe. Breathing problems caused by lung disease may prevent the body from getting enough oxygen. Examples of lung diseases are: Asthma, chronic bronchitis, and emphysema."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Zakarburg",
+    "serviceName": "Brain Disease",
+    "age": 30,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 2573,
+    "picture": "https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "email": "mark@fb.com",
+    "description": "Chest pain, chest tightness, chest pressure and chest discomfort (angina) Shortness of breath. Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed. Pain in the neck, jaw, throat, upper abdomen or back."
+  },
+  {
+    "id": 6,
+    "name": "Dr. SokinaReddy",
+    "serviceName": "Skin Disease",
+    "age": 22,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 2643,
+    "picture": "https://image.freepik.com/free-photo/young-female-doctor-posing-corridor-hospital_1303-21212.jpg",
+    "email": "reddy@telusko.com",
+    "description": "Chest pain, chest tightness, chest pressure and chest discomfort (angina) Shortness of breath. Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed. Pain in the neck, jaw, throat, upper abdomen or back."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Zack Ma",
+    "serviceName": "Bone Disease",
+    "age": 30,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 8953,
+    "picture": "https://image.freepik.com/free-photo/front-view-male-doctor-holding-analyzes-yellow-floor-medical-emotion-hospital_179666-12646.jpg",
+    "email": "zackma@alibaba.com",
+    "description": "Cancer is a disease caused when cells divide uncontrollably and spread into surrounding tissues. Cancer is caused by changes to DNA. Most cancer-causing DNA changes occur in sections of DNA called genes. These changes are also called genetic changes"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Bilkis",
+    "serviceName": "Tooth Disease",
+    "age": 30,
+    "degree": "D.C.J.,M.B.B.S",
+    "fees": 8953,
+    "picture": "https://image.freepik.com/free-photo/smiling-young-female-doctor-wearing-medical-robe-with-stethoscope-spreading-hand-isolated-green-wall_141793-86098.jpg",
+    "email": "zackma@alibaba.com",
+    "description": "Chest pain, chest tightness, chest pressure and chest discomfort (angina) Shortness of breath. Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed. Pain in the neck, jaw, throat, upper abdomen or back."
+  }
+]
